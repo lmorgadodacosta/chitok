@@ -1,7 +1,6 @@
-def tokenize(sentence):
+from chitok.tok import tokenize
 
-    s = list(sentence)
-    return s
+__all__ = ["tokenize"]
 
 
 def main():
