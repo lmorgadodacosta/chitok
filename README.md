@@ -1,0 +1,2 @@
+# chitok
+A chinese tokenizer 
