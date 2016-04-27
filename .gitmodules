@@ -1,0 +1,3 @@
+[submodule "modules/chien"]
+	path = modules/chien
+	url = https://github.com/davidmoeljadi/chien.git
